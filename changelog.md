@@ -5,3 +5,5 @@ Completed Task 4 - Aicha
 Completed Task 5, added code
 to Order::display_menu to fix displaying of total
 - Andrew
+Completed Task 6 - Aicha
+Completed Task 7 - Andrew
